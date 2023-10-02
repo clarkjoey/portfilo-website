@@ -1,11 +1,10 @@
 import React from 'react';
-import './App.css';
 
 function Header() {
   return (
     <header>
-      <h1>Your Name</h1>
-      <p>Web Developer</p>
+      <h1>Joe Clark</h1>
+      <p>Full Stack Developer</p>
     </header>
   );
 }
