@@ -3,8 +3,13 @@ import React from 'react';
 function Header() {
   return (
     <header>
-      <h1>Joe Clark</h1>
-      <p>Full Stack Developer</p>
+      <div className="header-container">
+        <a className="navbar-brand" href="/">
+          <img className="site-logo header-item" src="/jcdev-logo-smaller.jpeg" width="30" height="30" alt=""></img>
+        </a>
+        <h1 className="header-item">Joe Clark</h1>
+        <span className="header-item">Full Stack Development</span>
+      </div>
     </header>
   );
 }

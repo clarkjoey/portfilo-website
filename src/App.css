@@ -11,16 +11,46 @@ header {
   background-color: #007bff;
   color: #fff;
   text-align: center;
-  padding: 2rem 0;
+  padding: 0.5rem 0;
+}
+
+.header-container {
+  justify-content: left;
+  align-items: center;
+  display: flex;
+  margin: 0 20px;
+}
+
+.header-item {
+  display: inline-block;
 }
 
 header h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   margin: 0;
+  margin: 0 10px 0 0;
 }
 
-header p {
+header span {
   font-size: 1.2rem;
+  bottom: -4px;
+  position: relative;
+}
+
+.site-logo {
+  width: 50px;
+  height: auto;
+  margin: 0 20px 0 0;
+}
+
+.site-logo:hover {
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+}
+
+.site-logo:active {
+  transform: scale(.8);
+  transition: transform 0.1s ease;
 }
 
 #navbarNav {
@@ -30,6 +60,7 @@ header p {
 /* Navigation styles */
 nav {
   background-color: #333;
+  height: 40px;
 }
 
 nav ul {
