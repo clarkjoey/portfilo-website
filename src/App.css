@@ -23,6 +23,10 @@ header p {
   font-size: 1.2rem;
 }
 
+#navbarNav {
+  justify-content: center;
+}
+
 /* Navigation styles */
 nav {
   background-color: #333;
@@ -54,11 +58,6 @@ nav a:hover {
 nav a:active {
   transform: scale(.8);
   transition: transform 0.1s ease;
-}
-
-.nav-logo {
-  height: 50px;
-  width: auto;
 }
 
 /* Section styles */
