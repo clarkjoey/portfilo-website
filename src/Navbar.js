@@ -4,8 +4,8 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container">
-        <a class="navbar-brand" href="/">
-            <img src="/docs/4.0/assets/brand/bootstrap-solid.svg" width="30" height="30" alt=""></img>
+        <a className="navbar-brand" href="/">
+            <img className="nav-logo" src="/jcdev-logo.jpeg" width="30" height="30" alt=""></img>
         </a>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ml-auto">

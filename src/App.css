@@ -56,6 +56,11 @@ nav a:active {
   transition: transform 0.1s ease;
 }
 
+.nav-logo {
+  height: 50px;
+  width: auto;
+}
+
 /* Section styles */
 section {
   max-width: 800px;
