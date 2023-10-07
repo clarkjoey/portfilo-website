@@ -37,7 +37,7 @@ nav ul {
 }
 
 nav li {
-  margin: 0;
+  margin: 0 20px;
 }
 
 nav a {
@@ -47,7 +47,13 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #555;
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+}
+
+nav a:active {
+  transform: scale(.8);
+  transition: transform 0.1s ease;
 }
 
 /* Section styles */
