@@ -38,7 +38,7 @@ function About() {
       <h3>What to Expect</h3>
       <p>
         Here, you'll find a plethera of JavaScript projects that I've put a lot
-        of time into. From [Project] to [Project], I invite you to explore my
+        of time into. From a kanban board to keep me organized at work, to a 3-tier web app that showcases my full stack knowledge, I invite you to explore my
         work and get inspired.
       </p>
 
@@ -46,8 +46,7 @@ function About() {
       <p>
         I'm always eager to connect with fellow code enthusiasts and
         collaborators. If you have questions, ideas, or just want to chat about
-        code, don't hesitate to reach out. You can find me on [Links to GitHub,
-        LinkedIn, or Other Relevant Platforms] to stay in touch.
+        code, don't hesitate to reach out. You can find me on <a href="">LinkedIn</a> and <a href="">GitHub</a> to stay in touch.
       </p>
 
       <p>

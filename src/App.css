@@ -54,7 +54,7 @@ header span {
 }
 
 #navbarNav {
-  justify-content: center;
+  justify-content: left;
 }
 
 /* Navigation styles */
@@ -81,7 +81,7 @@ nav a {
   padding: 1rem 2rem;
 }
 
-nav a:hover {
+/* nav a:hover {
   transform: scale(1.2);
   transition: transform 0.3s ease;
 }
@@ -89,7 +89,7 @@ nav a:hover {
 nav a:active {
   transform: scale(.8);
   transition: transform 0.1s ease;
-}
+} */
 
 /* Section styles */
 section {
