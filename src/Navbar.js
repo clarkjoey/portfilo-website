@@ -20,10 +20,10 @@ function Navbar() {
                     More
                 </a>
                 <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a className="dropdown-item" href="/">Action</a></li>
-                    <li><a className="dropdown-item" href="/">Another action</a></li>
+                    <li><a className="dropdown-item" href="/">Work</a></li>
+                    <li><a className="dropdown-item" href="/">Education</a></li>
                     <li><hr className="dropdown-divider" /></li>
-                    <li><a className="dropdown-item" href="/">Something else here</a></li>
+                    <li><a className="dropdown-item" href="/">Donation Links</a></li>
                 </ul>
             </li>
           </ul>
