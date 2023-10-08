@@ -46,7 +46,7 @@ function About() {
       <p>
         I'm always eager to connect with fellow code enthusiasts and
         collaborators. If you have questions, ideas, or just want to chat about
-        code, don't hesitate to reach out. You can find me on <a href="">LinkedIn</a> and <a href="">GitHub</a> to stay in touch.
+        code, don't hesitate to reach out. You can find me on <a href="https://www.linkedin.com/in/imjosephclark/">LinkedIn</a> and <a href="https://github.com/clarkjoey">GitHub</a> to stay in touch.
       </p>
 
       <p>
