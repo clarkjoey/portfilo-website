@@ -18,7 +18,7 @@ function About() {
         I'm a passionate coder hailing from New York, deeply immersed in the
         world of software development. My journey is a symphony of code,
         creativity, and constant learning. It's not as daunting of a journey
-        when it's something you genuinely love doing - which it do!
+        when it's something you genuinely love doing - which I do!
       </p>
       <h3>My Journey</h3>
       <p>
