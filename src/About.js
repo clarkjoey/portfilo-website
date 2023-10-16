@@ -3,14 +3,14 @@ import React from "react";
 function About() {
   // Define the inline style as a JavaScript object
   const aboutMeStyle = {
-    textAlign: "center"
+    textAlign: "center",
   };
   return (
     <section id="about">
       <h2 style={aboutMeStyle}>About Me</h2>
       <p>
-        Hello, fellow hackers! I'm Joe, and I'm delighted to have you here in my
-        virtual coding realm. Let me give you a glimpse into my world of
+        Hello, fellow hackers! My name is Joe and I'm delighted to have you here
+        in my virtual coding realm. Let me give you a glimpse into my world of
         programming and technology.
       </p>
       <h4>Who Am I?</h4>
@@ -38,15 +38,18 @@ function About() {
       <h4>What to Expect</h4>
       <p>
         Here, you'll find a plethera of JavaScript projects that I've put a lot
-        of time into. From a kanban board to keep me organized at work, to a 3-tier web app that showcases my full stack knowledge, I invite you to explore my
-        work and get inspired.
+        of time into. From a kanban board to keep me organized at work, to a
+        3-tier web app that showcases my full stack knowledge, I invite you to
+        explore my work and get inspired.
       </p>
 
       <h4>Let's Connect</h4>
       <p>
         I'm always eager to connect with fellow code enthusiasts and
         collaborators. If you have questions, ideas, or just want to chat about
-        code, don't hesitate to reach out. You can find me on <a href="https://www.linkedin.com/in/imjosephclark/">LinkedIn</a> and <a href="https://github.com/clarkjoey">GitHub</a> to stay in touch.
+        code, don't hesitate to reach out. You can find me on{" "}
+        <a href="https://www.linkedin.com/in/imjosephclark/">LinkedIn</a> and{" "}
+        <a href="https://github.com/clarkjoey">GitHub</a> to stay in touch.
       </p>
 
       <p>
@@ -55,7 +58,10 @@ function About() {
         projects with you!
       </p>
 
-      <p>Cheers, <br />Joe</p>
+      <p>
+        Cheers, <br />
+        Joe
+      </p>
     </section>
   );
 }
