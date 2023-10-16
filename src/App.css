@@ -81,6 +81,17 @@ nav a {
   padding: 1rem 2rem;
 }
 
+nav button {
+  transform: scale(.6);
+  transform-origin: 0 0;
+}
+
+.custom-dropdown-menu {
+  background-color: #ffffff; /* Background color */
+  border-radius: 10px; /* Border radius */
+  padding-bottom: 20px;
+}
+
 /* nav a:hover {
   transform: scale(1.2);
   transition: transform 0.3s ease;
