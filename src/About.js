@@ -1,13 +1,9 @@
 import React from "react";
 
 function About() {
-  // Define the inline style as a JavaScript object
-  const aboutMeStyle = {
-    textAlign: "center",
-  };
   return (
     <section id="about">
-      <h2 style={aboutMeStyle}>About Me</h2>
+      <h2 className="about-me-title">About Me</h2>
       <p>
         Hello, fellow hackers! My name is Joe and I'm delighted to have you here
         in my virtual coding realm. Let me give you a glimpse into my world of
