@@ -10,7 +10,7 @@ function Projects() {
       <p>Check out some of the things I'm working on!</p>
       <br />
       <h4><FontAwesomeIcon icon={faListCheck} style={{ marginRight: "0.5rem" }}/>Kanban Board</h4>
-      <a href="https://joeydemos-kanban-board-181b9fd1e719.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+      <a href="https://flowdaily.app/" target="_blank" rel="noopener noreferrer">
         <img src="/kanban.png" width="100%" height="auto" alt="Kanban Board" />
       </a>
       <p style={{ marginTop: "1rem" }}>
